@@ -1,0 +1,17 @@
+.inicio{
+    background-color: aquamarine;
+    height: 500px;
+}
+
+.acerca-de{
+    background-color:brown;
+    height: 500px;
+    color: white;
+}
+.contacto{
+    background-color:green;
+    height: 500px;
+}
+.bg-mio{
+    background-color:teal!important;
+}
